@@ -1,5 +1,5 @@
 export class Joc {
-  public players: string[] = ['Alumne 1', 'Alumne 2', 'Alumne 3'];
+  public players: string[] = ['Jordi', 'Gerard', 'Roger'];
   public stack: string[] = [];
   public playedCards: string[] = [];
   public currentPlayer: number = 0;
